@@ -188,3 +188,5 @@ fabric.properties
 _python_project web scrabing.py
  .idea/misc.xml
  .idea/vcs.xml
+git
+git.pub
